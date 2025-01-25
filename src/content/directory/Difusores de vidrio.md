@@ -1,3 +1,20 @@
+---
+layout: ../../layouts/Card.astro
+title: Difusores de Vidrio
+description: Descubre cómo transformar cualquier espacio en un refugio de
+  bienestar con nuestros difusores de aromas, aceites esenciales y consejos
+  especializados.
+tags:
+  - aromaterapia
+  - bienestar
+  - relajación
+links:
+  - name: Explorar Cecotec
+    link: /productos/difusores
+  - name: Leer Nuestro Blog
+    link: /blog
+---
+
 # **Difusores de Vidrio**
 
 Los **difusores de vidrio** no solo llenan tu hogar con aromas relajantes, sino que también son una pieza decorativa que aporta un toque de sofisticación a cualquier espacio. A continuación, te enseñamos cómo usarlos correctamente y mantenerlos en perfectas condiciones.
