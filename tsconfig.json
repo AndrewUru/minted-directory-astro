@@ -1,7 +1,7 @@
 {
-  "extends": "astro/tsconfigs/strict",
+  "extends": "./node_modules/astro/configs/strict",
   "compilerOptions": {
     "jsx": "preserve",
-    "types": ["./src/types"]
+    "types": []
   }
 }
