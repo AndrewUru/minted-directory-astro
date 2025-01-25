@@ -1,9 +1,39 @@
-<div class="text-center mx-auto my-8 p-6 bg-gradient-to-b from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 rounded-2xl shadow-md hover:shadow-lg transition-shadow duration-300">
-  <h1 class="text-3xl font-bold text-gray-800 dark:text-gray-100 mb-4 text-balance">
+<div
+  class="
+    animate-fadeInUp
+    text-center mx-auto my-8 p-6 
+    bg-gradient-to-b from-gray-50 to-gray-100 
+    dark:from-gray-800 dark:to-gray-900 
+    rounded-2xl shadow-md 
+    transition-all duration-500 ease-in-out transform 
+    cursor-pointer 
+    hover:shadow-2xl 
+    hover:-translate-y-1 
+    hover:scale-105 
+    hover:rotate-1 
+    hover:skew-y-1 
+    hover:bg-gradient-to-r 
+    hover:from-indigo-50 hover:to-indigo-200 
+    dark:hover:from-indigo-800 dark:hover:to-indigo-900
+  "
+>
+  <h1 
+    class="
+      text-3xl font-bold 
+      text-gray-800 dark:text-gray-100 
+      mb-4 text-balance
+    "
+  >
     <slot name="heading" />
   </h1>
-  <p class="max-w-lg mx-auto text-md text-gray-600 dark:text-gray-300 leading-8">
+
+  <p 
+    class="
+      max-w-lg mx-auto text-md 
+      text-gray-600 dark:text-gray-300 
+      leading-8
+    "
+  >
     <slot name="description" />
   </p>
 </div>
-
