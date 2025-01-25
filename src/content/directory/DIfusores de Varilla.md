@@ -62,9 +62,9 @@ En los últimos años, los **difusores de varillas** han cobrado gran popularida
 
 **Comprar en**:
 
-\- \[Amazon]\(https\://www\.amazon.es/s?k=difusor+varillas)
+\- \[Amazon]\(<https://www.amazon.es/s?k=difusor+varillas>)
 
-\- \[El Corte Inglés]\(https\://www\.elcorteingles.es/search/?s=difusor+varillas)
+\- \[El Corte Inglés]\(<https://www.elcorteingles.es/search/?s=difusor+varillas>)
 
 \---
 
@@ -78,7 +78,7 @@ En los últimos años, los **difusores de varillas** han cobrado gran popularida
 
 **Comprar en**:
 
-\- \[Amazon]\(https\://www\.amazon.es/s?k=difusor+varillas+premium)
+\- \[Amazon]\(<https://www.amazon.es/s?k=difusor+varillas+premium>)
 
 \- \[Tiendas de decoración especializadas]\(#)
 
