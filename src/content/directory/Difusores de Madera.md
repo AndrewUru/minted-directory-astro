@@ -46,9 +46,9 @@ Los **difusores de madera** se han posicionado como una alternativa elegante y e
 
 **Comprar en**:
 
-\- \[Amazon]\(https\://www\.amazon.es/s?k=difusor+madera)
+\- \[Amazon]\(<https://www.amazon.es/s?k=difusor+madera>)
 
-\- \[El Corte Inglés]\(https\://www\.elcorteingles.es/search/?s=difusor+madera)
+\- \[El Corte Inglés]\(<https://www.elcorteingles.es/search/?s=difusor+madera>)
 
 \---
 
@@ -62,7 +62,7 @@ Los **difusores de madera** se han posicionado como una alternativa elegante y e
 
 **Comprar en**:
 
-\- \[Amazon]\(https\://www\.amazon.es/s?k=difusor+madera+minimalista)
+\- \[Amazon]\(<https://www.amazon.es/s?k=difusor+madera+minimalista>)
 
 \- \[Tiendas especializadas en decoración]\(#)
 
@@ -72,15 +72,15 @@ Los **difusores de madera** se han posicionado como una alternativa elegante y e
 
 Para que conozcas más sobre los difusores de madera y veas comparativas reales, te compartimos algunos vídeos de YouTube:
 
-\- **\[Introducción a los Difusores de Madera]\(https\://www\.youtube.com/watch?v=XXXXXXXX)**
+\- **\[Introducción a los Difusores de Madera]\(**<https://www.youtube.com/watch?v=XXXXXXXX>**)**
 
 Una guía básica sobre qué son, cómo funcionan y cómo elegir el más adecuado para tu hogar.
 
-\- **\[Comparativa de Difusores de Madera]\(https\://www\.youtube.com/watch?v=XXXXXXXX)**
+\- **\[Comparativa de Difusores de Madera]\(**<https://www.youtube.com/watch?v=XXXXXXXX>**)**
 
 Análisis de diferentes modelos, reseñas, consejos de mantenimiento y recomendaciones de fragancias.
 
-\- **\[Decoración y Aromaterapia con Difusores de Madera]\(https\://www\.youtube.com/watch?v=XXXXXXXX)**
+\- **\[Decoración y Aromaterapia con Difusores de Madera]\(**<https://www.youtube.com/watch?v=XXXXXXXX>**)**
 
 Ideas para integrar tu difusor de madera en la decoración y aprovechar al máximo sus beneficios aromáticos.
 
