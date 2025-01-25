@@ -43,7 +43,7 @@ const navigation = [
 ---
 
 <footer
-  class="border-t dark:border-gray-600 font-display"
+  class="border-t dark:border-gray-600 font-display bg-gray-50 dark:bg-gray-900"
   aria-labelledby="footer-heading"
 >
   <h2 id="footer-heading" class="sr-only">Footer</h2>
@@ -54,9 +54,17 @@ const navigation = [
         <div class="flex space-x-6">
           {
             socials.map((item, key) => (
-              <a href={item?.link} class="text-gray-400 hover:text-gray-500">
+              <a
+                href={item?.link}
+                class="text-gray-400 hover:text-gray-500 relative group"
+              >
                 <span class="sr-only">{item}</span>
-                <Icon name={item.icon!} class="h-6 w-6" aria-hidden="true" />
+                <Icon
+                  name={item.icon!}
+                  class="h-6 w-6 group-hover:text-primary-500 transition duration-300"
+                  aria-hidden="true"
+                />
+                <div class="absolute inset-0 rounded-full opacity-0 group-hover:opacity-100 group-hover:blur-lg bg-primary-500 transition duration-300"></div>
               </a>
             ))
           }
@@ -75,7 +83,7 @@ const navigation = [
                     <li>
                       <a
                         href={item.link}
-                        class="text-sm leading-6 text-gray-600 dark:text-gray-300 hover:dark:text-gray-400 hover:text-gray-900"
+                        class="text-sm leading-6 text-gray-600 dark:text-gray-300 hover:dark:text-primary-500 hover:text-primary-700 transition duration-300"
                       >
                         {item.title}
                       </a>
@@ -93,7 +101,7 @@ const navigation = [
                     <li>
                       <a
                         href={item.link}
-                        class="text-sm leading-6 text-gray-600 dark:text-gray-300 hover:dark:text-gray-400 hover:text-gray-900"
+                        class="text-sm leading-6 text-gray-600 dark:text-gray-300 hover:dark:text-primary-500 hover:text-primary-700 transition duration-300"
                       >
                         {item.title}
                       </a>
@@ -116,3 +124,30 @@ const navigation = [
     </div>
   </div>
 </footer>
+
+<style>
+  /* Efecto de brillo en los íconos sociales */
+  .group:hover .h-6 {
+    text-shadow: 0 0 8px rgba(255, 255, 255, 0.7),
+      0 0 12px rgba(255, 255, 255, 0.5),
+      0 0 20px rgba(255, 255, 255, 0.3);
+  }
+
+  /* Efecto de resplandor en los íconos */
+  .group:hover div {
+    animation: glow 1.5s infinite alternate;
+  }
+
+  @keyframes glow {
+    0% {
+      opacity: 0.8;
+      box-shadow: 0 0 10px rgba(59, 130, 246, 0.5),
+        0 0 20px rgba(59, 130, 246, 0.4);
+    }
+    100% {
+      opacity: 1;
+      box-shadow: 0 0 15px rgba(59, 130, 246, 0.7),
+        0 0 25px rgba(59, 130, 246, 0.6);
+    }
+  }
+</style>
