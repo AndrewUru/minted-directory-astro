@@ -1,37 +1,3 @@
-\---
-
-layout: ../../layouts/Card.astro
-
-title: Difusores de Varillas
-
-description: Conoce las últimas cifras de ventas de difusores de varillas y
-
-descubre por qué se han convertido en una opción popular para perfumar y
-
-ambientar todo tipo de espacios.
-
-tags:
-
-\- difusores
-
-\- varillas
-
-\- ambientadores
-
-\- ventas
-
-links:
-
-\- name: Explorar Difusores
-
-link: /productos/difusores-varillas
-
-\- name: Leer Nuestro Blog
-
-link: /blog
-
-\---
-
 \# Difusores de Varillas en España
 
 En los últimos años, los **difusores de varillas** han cobrado gran popularidad en España. Su sencillez de uso, su variedad de fragancias y su diseño elegante los han convertido en una solución muy demandada para perfumar y decorar hogares y oficinas. Según estudios de mercado recientes, **las ventas de difusores de varillas en España han crecido un 30%** en el último año, lo cual refleja el aumento constante de la preferencia por productos de aromaterapia y bienestar.
