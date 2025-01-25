@@ -1,18 +1,3 @@
----
-layout: ../../layouts/Card.astro
-title: Difusores de Vidrio
-description: Descubre cómo los difusores de vidrio pueden transformar tu hogar en un santuario de relajación y estilo. Aprende a usarlos y mantén su pureza con nuestros consejos.
-tags:
-  - vidrio
-  - aromaterapia
-  - relajación
-links:
-  - name: Explorar Difusores de Vidrio
-    link: "/productos/difusores-de-vidrio"
-  - name: Comprar Aceites Esenciales
-    link: "/productos/aceites-esenciales"
----
-
 # **Difusores de Vidrio: Elegancia y Bienestar en un Solo Objeto**
 
 Los **difusores de vidrio** no solo llenan tu hogar con aromas relajantes, sino que también son una pieza decorativa que aporta un toque de sofisticación a cualquier espacio. A continuación, te enseñamos cómo usarlos correctamente y mantenerlos en perfectas condiciones.
