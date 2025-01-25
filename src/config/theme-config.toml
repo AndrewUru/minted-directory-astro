@@ -55,10 +55,16 @@ key = "vidrio"
 name = "Difusores de Vidrio"
 color = "green"
 
+
 [[directory.tags]]
 key = "aceites_esenciales"
 name = "Aceites Esenciales"
 color = "yellow"
+
+[[directory.tags]]
+key = "madera"
+name = "Difusores de Madera"
+color = "brown"
 
 [[directory.tags]]
 key = "relajacion"

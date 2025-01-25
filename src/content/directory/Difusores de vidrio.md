@@ -68,7 +68,7 @@ Mantener tu difusor limpio es esencial para preservar su funcionalidad y aparien
 - Usa vinagre diluido en agua para eliminar cualquier acumulación difícil.
 - Asegúrate de secar bien el vidrio antes de guardarlo o usarlo nuevamente.
 
-## **5. Consejos adicionales para aprovecharlo al máximo**
+## **5. Cosejons adicionales para aprovecharlo al máximo**
 
 - Cambia los aceites esenciales según tu estado de ánimo o la ocasión.
 - Evita aceites sintéticos, ya que pueden dañar el difusor y no ofrecen los mismos beneficios.

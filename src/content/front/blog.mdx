@@ -1,0 +1,37 @@
+---
+layout: ../../layouts/Wide.astro
+card_image: "https://difusoraromas.com/images/blog-banner.jpg"
+---
+
+import BlogPostGrid from "../../components/blog/BlogPostGrid.astro";
+import Categories from "../../components/blog/Categories.astro";
+
+<section class="bg-gradient-to-b from-green-100 via-white to-gray-100 dark:from-gray-900 dark:via-gray-800 dark:to-gray-700 py-20">
+  <div class="max-w-screen-xl mx-auto px-6 lg:px-12 text-center">
+    <h1 class="text-5xl font-extrabold text-gray-800 dark:text-gray-100 mb-6">
+      Bienvenido a nuestro Blog 🌿
+    </h1>
+    <p class="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
+      Explora artículos sobre **aromaterapia**, bienestar, y los mejores
+      consejos para transformar tu hogar en un espacio único.
+    </p>
+  </div>
+</section>
+
+<section class="py-16 bg-gray-50 dark:bg-gray-900">
+  <div class="max-w-screen-xl mx-auto px-6 lg:px-12">
+    <h2 class="text-4xl font-bold text-gray-800 dark:text-gray-100 mb-10">
+      Categorías 🌸
+    </h2>
+    <Categories />
+  </div>
+</section>
+
+<section class="py-16 bg-white dark:bg-gray-800">
+  <div class="max-w-screen-xl mx-auto px-6 lg:px-12">
+    <h2 class="text-4xl font-bold text-gray-800 dark:text-gray-100 mb-10">
+      Últimos Artículos 📝
+    </h2>
+    <BlogPostGrid />
+  </div>
+</section>

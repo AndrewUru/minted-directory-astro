@@ -1,0 +1,42 @@
+---
+layout: ../../layouts/Wide.astro
+card_image: "https://difusoraromas.com/images/tienda-difusores.jpg"
+---
+
+import FeaturedProducts from "../../components/shop/FeaturedProducts.astro";
+import ProductGrid from "../../components/shop/ProductGrid.astro";
+
+<section class="bg-gradient-to-r from-purple-500 via-pink-500 to-red-500 text-white py-24">
+  <div class="max-w-screen-xl mx-auto px-6 lg:px-12 text-center">
+    <h1 class="text-5xl font-extrabold mb-6">Bienvenido a nuestra tienda 🛒</h1>
+    <p class="text-lg max-w-2xl mx-auto mb-10">
+      Explora una selección exclusiva de **difusores de aromas**, aceites
+      esenciales y accesorios para transformar cualquier espacio en un santuario
+      de relajación.
+    </p>
+    <a
+      href="#productos"
+      class="inline-block bg-white text-purple-600 font-bold rounded-full px-8 py-4 hover:bg-gray-100 transition-all"
+    >
+      Ver Productos
+    </a>
+  </div>
+</section>
+
+<section id="productos" class="py-20 bg-gray-100 dark:bg-gray-900">
+  <div class="max-w-screen-xl mx-auto px-6 lg:px-12">
+    <h2 class="text-4xl font-bold text-gray-800 dark:text-gray-100 mb-10 text-center">
+      Descubre nuestros productos destacados 🌟
+    </h2>
+    <FeaturedProducts />
+  </div>
+</section>
+
+<section class="py-24 bg-white">
+  <div class="max-w-screen-xl mx-auto px-6 lg:px-12">
+    <h2 class="text-4xl font-bold text-gray-800 mb-10 text-center">
+      Todos los Productos
+    </h2>
+    <ProductGrid />
+  </div>
+</section>
