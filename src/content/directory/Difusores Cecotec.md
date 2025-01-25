@@ -1,4 +1,4 @@
-# Difusores Cecotec page
+# Difusores Cecotec
 
 # Descubre los difusores de aroma Cecotec
 
@@ -12,12 +12,12 @@ El difusor **modelo X** de Cecotec ofrece:
 - Capacidad ideal para estancias medianas.
 - Diseño moderno que se adapta a cualquier habitación.
 
-**Enlace oficial**: https\://www\.storececotec.com/es/
+**Enlace oficial**: <https://www.storececotec.com/es/>
 
 **Comprar en**:
 
-- https\://www\.amazon.es/s?k=Difusor+aroma+Cecotec
-- https\://www\.elcorteingles.es/electrodomesticos/A42078786-cecotec-difusor/
+- <https://www.amazon.es/s?k=Difusor+aroma+Cecotec>
+- <https://www.elcorteingles.es/electrodomesticos/A42078786-cecotec-difusor/>
 
 ## Difusor modelo Y
 
@@ -27,12 +27,12 @@ El **modelo Y** se caracteriza por:
 - Funciones avanzadas como temporizador y luces LED de colores.
 - Experiencias únicas de aromaterapia.
 
-**Enlace oficial**: https\://www\.storececotec.com/es/
+**Enlace oficial**: <https://www.storececotec.com/es/>
 
 **Comprar en**:
 
-- https\://www\.amazon.es/s?k=Difusor+aroma+Cecotec
-- https\://www\.pccomponentes.com/?query=cecotec+difusor
+- <https://www.amazon.es/s?k=Difusor+aroma+Cecotec>
+- <https://www.pccomponentes.com/?query=cecotec+difusor>
 
 ## Difusor modelo Z
 
@@ -42,11 +42,11 @@ El **modelo Z** se caracteriza por:
 - Diseño minimalista y silencioso.
 - Ideal para dormitorios y espacios de trabajo.
 
-**Enlace oficial**: https\://www\.storececotec.com/es/
+**Enlace oficial**: <https://www.storececotec.com/es/>
 
 **Comprar en**:
 
-- https\://www\.mediamarkt.es/es/search.html?query=cecotec+difusor
-- https\://www\.amazon.es/s?k=Difusor+aroma+Cecotec
+- <https://www.mediamarkt.es/es/search.html?query=cecotec+difusor>
+- <https://www.amazon.es/s?k=Difusor+aroma+Cecotec>
 
-Para más información sobre cada modelo y otros productos de Cecotec, visita: https\://www\.storececotec.com/es/
+Para más información sobre cada modelo y otros productos de Cecotec, visita: <https://www.storececotec.com/es/>
