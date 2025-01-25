@@ -1,4 +1,4 @@
-# **Difusores de Vidrio: Elegancia y Bienestar en un Solo Objeto**
+# **Difusores de Vidrio**
 
 Los **difusores de vidrio** no solo llenan tu hogar con aromas relajantes, sino que también son una pieza decorativa que aporta un toque de sofisticación a cualquier espacio. A continuación, te enseñamos cómo usarlos correctamente y mantenerlos en perfectas condiciones.
 
