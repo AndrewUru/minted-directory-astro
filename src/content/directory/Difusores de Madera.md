@@ -20,8 +20,6 @@ links:
 
 Los **difusores de madera** se han posicionado como una alternativa elegante y ecológica dentro del mundo de la aromaterapia. Ya no son solo dispositivos funcionales para esparcir fragancias, sino piezas decorativas que añaden un toque natural y acogedor a cualquier espacio. Durante el último año, **las ventas de difusores de madera en España han registrado un aumento del 25%**, lo cual refleja el creciente interés de los consumidores por artículos sostenibles y con estética minimalista.
 
-\---
-
 \## ¿Por Qué Elegir un Difusor de Madera?
 
 1\. **Material natural**: La madera aporta calidez y un estilo único, integrándose fácilmente en diferentes tipos de decoración.
@@ -31,8 +29,6 @@ Los **difusores de madera** se han posicionado como una alternativa elegante y e
 3\. **Aportan un toque decorativo**: Además de liberar fragancias, se convierten en un elemento más para embellecer el ambiente.
 
 4\. **Mantenimiento sencillo**: Al igual que otros difusores, basta con limpiar el depósito y renovar la fragancia periódicamente.
-
-\---
 
 \## Modelos Más Populares
 
@@ -50,8 +46,6 @@ Los **difusores de madera** se han posicionado como una alternativa elegante y e
 
 \- \[El Corte Inglés]\(<https://www.elcorteingles.es/search/?s=difusor+madera>)
 
-\---
-
 \### Difusor de Madera Minimalista
 
 \- **Estilo moderno** que combina con decoraciones nórdicas o contemporáneas.
@@ -65,8 +59,6 @@ Los **difusores de madera** se han posicionado como una alternativa elegante y e
 \- \[Amazon]\(<https://www.amazon.es/s?k=difusor+madera+minimalista>)
 
 \- \[Tiendas especializadas en decoración]\(#)
-
-\---
 
 \## Vídeos Recomendados en YouTube
 
@@ -86,8 +78,6 @@ Ideas para integrar tu difusor de madera en la decoración y aprovechar al máxi
 
 *(Nota: reemplaza los "XXXXXXXX" con enlaces reales de YouTube si dispones de vídeos específicos.)*
 
-\---
-
 \## Consejos de Uso
 
 1\. **Coloca el difusor en un lugar alto y céntrico** para una mejor distribución del aroma.
@@ -97,8 +87,6 @@ Ideas para integrar tu difusor de madera en la decoración y aprovechar al máxi
 3\. **Limpia el depósito de agua** periódicamente para evitar acumulación de residuos.
 
 4\. **Combina con elementos naturales** como plantas o fibras naturales para reforzar el ambiente eco-friendly.
-
-\---
 
 \## Conclusión
 
