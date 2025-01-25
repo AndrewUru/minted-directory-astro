@@ -1,21 +1,19 @@
 ---
-__error__:
-  name: YAMLParseError
-  code: MISSING_CHAR
-  message: |
-    Implicit map keys need to be followed by map values at line 21, column 1:
-
-
-    Los **difusores de madera** se han posicionado como una alternativa elegante y …
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  pos:
-    - 471
-    - 963
-  linePos:
-    - line: 21
-      col: 1
-    - line: 21
-      col: 493
+layout: ../../layouts/Card.astro
+title: Difusores de Madera
+description: Conoce los beneficios de los difusores de madera, su creciente
+  popularidad en el mercado, y descubre vídeos en YouTube que te ayudarán a
+  elegir el modelo perfecto para tu hogar.
+tags:
+  - difusores
+  - madera
+  - aromaterapia
+  - bienestar
+links:
+  - name: Explorar Difusores de Madera
+    link: /productos/difusores-madera
+  - name: Leer Nuestro Blog
+    link: /blog
 ---
 
-# Difusores De Madera page
+# Difusores de Madera
