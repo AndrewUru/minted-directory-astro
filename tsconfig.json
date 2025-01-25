@@ -1,5 +1,5 @@
 {
-  "extends": "./node_modules/astro/configs/strict",
+  "extends": "astro/configs/base",
   "compilerOptions": {
     "jsx": "preserve",
     "types": []
