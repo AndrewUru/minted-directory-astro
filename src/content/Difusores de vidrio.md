@@ -1,3 +1,5 @@
+# Difusores De Vidrio page
+
 # **Difusores de Vidrio: Elegancia y Bienestar en un Solo Objeto**
 
 Los difusores de vidrio son una de las opciones más sofisticadas para llenar tu hogar con los beneficios de los aceites esenciales. Además de ser funcionales, su diseño elegante los convierte en una pieza decorativa que complementa cualquier espacio. Si estás buscando combinar estilo y bienestar, ¡los difusores de vidrio son perfectos para ti!
