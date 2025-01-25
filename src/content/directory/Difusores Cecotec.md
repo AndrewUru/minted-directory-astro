@@ -5,8 +5,8 @@ description: Descubre cómo transformar cualquier espacio en un refugio de
   bienestar con nuestros difusores de aromas, aceites esenciales y consejos
   especializados.
 tags:
-  - aromaterapia
-  - bienestar
+  - cecotec
+  - difusores
   - relajación
 links:
   - name: Explorar Cecotec
