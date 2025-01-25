@@ -1,16 +1,18 @@
 ---
 layout: ../../layouts/Card.astro
 title: Difusor de Aromas
-description: Descubre cómo transformar cualquier espacio en un refugio de bienestar con nuestros difusores de aromas, aceites esenciales y consejos especializados.
+description: Descubre cómo transformar cualquier espacio en un refugio de
+  bienestar con nuestros difusores de aromas, aceites esenciales y consejos
+  especializados.
 tags:
   - aromaterapia
   - bienestar
   - relajación
 links:
   - name: Explorar Difusores de Aromas
-    link: "/productos/difusores"
+    link: /productos/difusores
   - name: Leer Nuestro Blog
-    link: "/blog"
+    link: /blog
 ---
 
 # **Difusor de Aromas: Tu Espacio de Bienestar y Relajación**
