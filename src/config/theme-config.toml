@@ -1,17 +1,17 @@
 [general]
-title = "Difusor de Aromas"
+title = "Difusor de Aromas - Bienestar y Estilo"
 logo = ""
 iconLogo = "tabler:leaf"
 
 [general.seo]
-name = "Nuxt Starters"
-description = "Find the best nuxt starter kits."
-url = "https://nuxtstarters.com"
+name = "Difusores de Aromas"
+description = "Descubre los mejores difusores de aromas, aceites esenciales y consejos para transformar tu hogar en un espacio de bienestar."
+url = "https://difusoraromas.com"
 
 [directory.search]
-placeholder = "Search among {0} tools"
+placeholder = "Busca entre {0} difusores y accesorios"
 showCount = true
-icon = "tabler:bow"
+icon = "tabler:search"
 
 [directory.search.tags]
 display = "select"   # options: none,select,show-all
@@ -21,7 +21,7 @@ intersection = false
 list = false
 
 [directory.grid.emptyState]
-text = "Seems that this entry is missing from the archives."
+text = "Parece que no encontramos ese producto en nuestra colección."
 type = "button"                                              # options: button, simple, link
 icon = "tabler:exclamation-mark"
 
@@ -32,71 +32,88 @@ border = "shadow" # options: dashed, shadow, outline
 [directory.grid.submit]
 show = true
 first = false
-title = "Submit a template"
-description = "Submit a template to show off a good project to other people."
+title = "¿Falta un difusor?"
+description = "Envíanos sugerencias para ampliar nuestra colección de difusores y aromas."
 hideable = true
 
 [directory.featured]
 showOnAllPages = true
 showOnSide = true
 icon = "tabler:star"
-labelForCard = "Featured ✨"
+labelForCard = "Recomendado ✨"
 
 [directory.tagPages]
-title = "{0} Apps"
+title = "Difusores para {0}"
 
 [[directory.tags]]
-key = "freemium"
-name = "Freemium"
+key = "electricos"
+name = "Difusores Eléctricos"
 color = "blue"
 
 [[directory.tags]]
-key = "guided_meditations"
-name = "Guided Meditations"
+key = "vidrio"
+name = "Difusores de Vidrio"
 color = "green"
 
 [[directory.tags]]
-key = "timer"
+key = "aceites_esenciales"
+name = "Aceites Esenciales"
+color = "yellow"
+
+[[directory.tags]]
+key = "relajacion"
+name = "Relajación"
+color = "purple"
 
 [header.banner]
 show = true
-text = "Follow mark_bruderer on twitter."
-link = "https://x.com/intent/follow?screen_name=mark_bruderer"
-brandText = "BestMeditationApps"
+text = "Síguenos para más tips sobre bienestar y aromaterapia."
+link = "https://x.com/intent/follow?screen_name=difusoraromas"
+brandText = "Aromaterapia y Bienestar"
 
 [header.navbar]
 colorModeSelector = true
 
 [[header.navbar.links]]
-name = "Analytics"
-href = "https://us.posthog.com/shared/vHlGCcSqPjGH4r_QijaXSETtmN9J-g"
-target = "_blank"
+name = "Tienda"
+href = "/tienda"
+target = "_self"
+
+[[header.navbar.links]]
+name = "Blog"
+href = "/blog"
+target = "_self"
+
+[[header.navbar.links]]
+name = "Contactar"
+href = "/contacto"
+target = "_self"
 
 [header.actionButton]
-text = "Submit a starter"
-href = "/submit"
+text = "Explora nuestros productos"
+href = "/productos"
 
 [footer]
-description = "Best directory for my niche."
+description = "El lugar ideal para encontrar los mejores difusores de aromas, aceites esenciales y consejos de bienestar."
 
 [footer.socials.github]
 link = ""
 icon = "tabler:brand-github"
 
 [footer.socials.facebook]
-link = ""
+link = "https://www.facebook.com/difusoraromas"
 icon = "tabler:brand-facebook"
 
 [footer.socials.instagram]
-link = ""
+link = "https://www.instagram.com/difusoraromas"
 icon = "tabler:brand-instagram"
 
 [footer.socials.x]
-link = "https://x.com/mark_bruderer"
+link = "https://x.com/difusoraromas"
 icon = "tabler:brand-twitter"
 
 [footer.socials.youtube]
-link = "https://www.youtube.com/@mark_hacks"
+link = "https://www.youtube.com/@difusoraromas"
 icon = "tabler:brand-youtube"
 
 [ui.icons]
