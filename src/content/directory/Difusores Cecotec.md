@@ -34,7 +34,7 @@ El difusor **modelo X** de Cecotec ofrece:
 **Comprar en**:
 
 - <https://www.amazon.es/s?k=Difusor+aroma+Cecotec>
-- <https://www.elcorteingles.es/electrodomesticos/A42078786-cecotec-difusor/>
+- [https://www.elcorteingles.es/e](https://www.elcorteingles.es/electrodomesticos/A42078786-cecotec-difusor/) [lectrodomesticos/A42078786-cecotec-difusor/](https://www.elcorteingles.es/electrodomesticos/A42078786-cecotec-difusor/)
 
 ## Difusor modelo Y
 
@@ -49,7 +49,7 @@ El **modelo Y** se caracteriza por:
 **Comprar en**:
 
 - <https://www.amazon.es/s?k=Difusor+aroma+Cecotec>
-- <https://www.pccomponentes.com/?query=cecotec+difusor>
+- [https://www.pccomponentes.](https://www.pccomponentes.com/?query=cecotec+difusor) [com/?query=cecotec+difusor](https://www.pccomponentes.com/?query=cecotec+difusor)
 
 ## Difusor modelo Z
 
@@ -63,7 +63,8 @@ El **modelo Z** se caracteriza por:
 
 **Comprar en**:
 
-- <https://www.mediamarkt.es/es/search.html?query=cecotec+difusor>
-- <https://www.amazon.es/s?k=Difusor+aroma+Cecotec>
+- [https://www.mediamarkt.es/es/](https://www.mediamarkt.es/es/search.html?query=cecotec+difusor) [search.html?query=cecotec+difusor](https://www.mediamarkt.es/es/search.html?query=cecotec+difusor)
+
+* <https://www.amazon.es/s?k=Difusor+aroma+Cecotec>
 
 Para más información sobre cada modelo y otros productos de Cecotec, visita: <https://www.storececotec.com/es/>
