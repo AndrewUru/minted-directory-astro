@@ -1,3 +1,20 @@
+---
+layout: ../../layouts/Card.astro
+title: Difusores Cecotec
+description: Descubre cómo transformar cualquier espacio en un refugio de
+  bienestar con nuestros difusores de aromas, aceites esenciales y consejos
+  especializados.
+tags:
+  - aromaterapia
+  - bienestar
+  - relajación
+links:
+  - name: Explorar Cecotec
+    link: /productos/difusores
+  - name: Leer Nuestro Blog
+    link: /blog
+---
+
 # Difusores Cecotec
 
 # Descubre los difusores de aroma Cecotec
