@@ -2,9 +2,14 @@
 import Prose from "../components/app/Prose.astro";
 ---
 
-<div class="bg-gradient-to-b from-gray-50 to-gray-200 dark:from-gray-800 dark:to-gray-900 grid grid-cols-12 gap-8 py-12">
+<div class="bg-gradient-to-b from-pink-100 via-purple-100 to-blue-200 dark:from-gray-900 dark:via-gray-800 dark:to-gray-700 grid grid-cols-12 gap-8 py-12">
   <div
-    class="col-span-10 col-start-2 md:col-span-8 md:col-start-3 lg:col-span-6 lg:col-start-4 xl:max-w-4xl bg-white dark:bg-gray-800 px-6 py-8 sm:px-10 sm:py-12 shadow-lg ring-1 ring-gray-200 dark:ring-gray-700 rounded-xl"
+    class="col-span-10 col-start-2 md:col-span-8 md:col-start-3 lg:col-span-6 lg:col-start-4 xl:max-w-4xl 
+    bg-gradient-to-r from-white to-gray-100 dark:from-gray-800 dark:to-gray-900 
+    px-6 py-8 sm:px-10 sm:py-12 
+    shadow-2xl hover:shadow-[0px_8px_20px_rgba(0,0,0,0.3)] 
+    ring-2 ring-purple-200 dark:ring-purple-700 
+    rounded-3xl transition-all duration-300 transform hover:-translate-y-2"
   >
     <Prose>
       <slot />
